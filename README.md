@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="proffy-landing" src="https://github.com/PF-Henrique/Starter-Rocketseat/blob/master/.github/starter-logo.svg" />
+    <img  src="https://github.com/PF-Henrique/alexa-herois/blob/master/.docs/index.png" />
 </h1>
 
 <h1 align='center'>Interface de voz com Amazon Alexa</h1>
@@ -22,7 +22,7 @@
 ## 🌎 Demonstration
 Vizualise a na imagem os testes realizados na plataforma de desenvolvimento da alexa.
 <h1 align="center">
-    <img alt="proffy-landing" src="https://github.com/PF-Henrique/Starter-Rocketseat/blob/master/.github/starter-logo.svg" />
+    <img src="https://github.com/PF-Henrique/alexa-herois/blob/master/.docs/test.png" />
 </h1>
 
 ## 🧰 Prerequisites
