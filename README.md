@@ -34,8 +34,24 @@ Make sure you have installed all of the following prerequisites on your machine:
 
 
 ## 🔧 Started
+
+#### Siga a documentação para instalar a **[CLI](https://developer.amazon.com/en-US/docs/alexa/smapi/quick-start-alexa-skills-kit-command-line-interface.html)**.
+
 ```sh
-$ https://github.com/PF-Henrique/Starter-Rocketseat.git
+# administrator powershell
+$ npm install -g --production windows-build-tools
+$ npm install -g ask-cli
+```
+
+```sh
+# run config
+$ ask configure
+$ > create profile
+$ ask init --hosted-skill-id  < na skill criada clique em "copy skill id" e cole o id aqui>
+```
+
+```sh
+$ https://github.com/PF-Henrique/alexa-herois.git
 $ cd api/
 $ npm install -g yarn
 $ yarn install
