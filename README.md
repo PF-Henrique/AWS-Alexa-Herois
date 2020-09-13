@@ -29,8 +29,8 @@ Vizualise a na imagem os testes realizados na plataforma de desenvolvimento da a
 Make sure you have installed all of the following prerequisites on your machine:
 * **[Git](https://git-scm.com/downloads)**;
 * **[Node.js](https://nodejs.org/en/download/)** with npm package manager.
-* **[vs-code](https://nodejs.org/en/download/)** 
-* **[Account amazom development](https://nodejs.org/en/download/)** 
+* **[vs-code](https://code.visualstudio.com/)** 
+* **[Account amazom development](https://developer.amazon.com/)** 
 
 
 ## 🔧 Started
