@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img  src="https://github.com/PF-Henrique/alexa-herois/blob/master/.docs/index.png" />
+    <img  src="https://github.com/PF-Henrique/alexa-herois/blob/master/.docs/logo2.png" />
 </h1>
 
 <h1 align='center'>Interface de voz com Amazon Alexa</h1>
